@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI and autonomous systems.
 - 🌱 I’m currently learning deep learning, computer vision and speech recognition.
 - 💞️ I’m looking to collaborate on innovative AI projects.
-- 📫 How to reach me: machuengine@example.com
+- 📫 How to reach me: ann10266@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love solving complex algorithms and exploring new technologies!
 

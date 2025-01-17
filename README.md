@@ -6,6 +6,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love solving complex algorithms and exploring new technologies!
 
+- My Blog : https://velog.io/@machu8/posts
 
 <!---
 MachuEngine/MachuEngine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,11 +1,8 @@
-- 👋 Hi, I’m @MachuEngine
-- 👀 I’m interested in AI and autonomous systems.
-- 🌱 I’m currently learning deep learning, computer vision and speech recognition.
-- 💞️ I’m looking to collaborate on innovative AI projects.
-- 📫 How to reach me: ann10266@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love solving complex algorithms and exploring new technologies!
-- 🚀 My Blog : https://velog.io/@machu8/posts
+- 👋 이름: 안종민
+- 👀 AI/딥러닝/컴퓨터비전/음성인식 등에 관심
+- 📫 이메일: ann10266@gmail.com
+- ⚡ AI/데이터처리 공부 업로드 중
+- 🚀 블로그 주소 : https://velog.io/@machu8/posts
 
 <!---
 MachuEngine/MachuEngine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
